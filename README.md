@@ -1,8 +1,9 @@
 # keras-frcnn
 Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.
-cloned from https://github.com/yhenon/keras-frcnn/
+cloned from https://github.com/kbardool/keras-frcnn
 
-Please note that I currently am quite busy with other projects and unfortunately dont have a lot of time to spend on this maintaining this repository, but any contributions are welcome!
+# Fixed several bugs when cloned from origin aurthor
+
 
 
 USAGE:
