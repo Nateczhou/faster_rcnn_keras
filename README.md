@@ -44,10 +44,8 @@ paper. The anchor box sizes are [128, 256, 512] and the ratios are [1:1, 1:2, 2:
 
 Example output:
 
-![ex1](http://i.imgur.com/7Lmb2RC.png)
-![ex2](http://i.imgur.com/h58kCIV.png)
-![ex3](http://i.imgur.com/EbvGBaG.png)
-![ex4](http://i.imgur.com/i5UAgLb.png)
+![ex1](https://github.com/Nateczhou/faster_rcnn_keras/blob/master/predict_Slide334Malaria9.jpg)
+
 
 ISSUES:
 
