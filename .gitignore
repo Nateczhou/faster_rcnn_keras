@@ -9,6 +9,7 @@ __pycache__/
 # private
 *.h5
 test_image/
+result_image/
 *.deb
 *.hdf5
 *.zip
